@@ -113,24 +113,6 @@ lib/
 - **Authentication**: Custom implementation
 - **Database**: (Specify your database solution)
 
-## 📱 Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="screenshot/login.jpg" alt="Login Screen" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
-      <td><img src="screenshot/admin_page.jpg" alt="Admin Dashboard" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
-    </tr>
-    <tr>
-      <td><img src="screenshot/bin_status.jpg" alt="Bin Status" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
-      <td><img src="screenshot/available_drivers.jpg" alt="Available Drivers" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
-    </tr>
-    <tr>
-      <td><img src="screenshot/edit_admin_profile.jpg" alt="Edit Admin Profile" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
-      <td><img src="screenshot/change_driver_status.jpg" alt="Change Driver Status" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
-    </tr>
-  </table>
-</div>
 
 ## 🔄 Workflow
 
